@@ -1,0 +1,2 @@
+# gaystas
+Myfriendstandedgay
