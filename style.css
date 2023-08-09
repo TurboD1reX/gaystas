@@ -1,0 +1,66 @@
+*{
+margin:0;
+box-sizing:0
+}
+
+body{
+    background-color:#f24b4b;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+@media (max-width: 767px) {
+    body {
+      font-size: 14px;
+    }
+}
+
+#selector{
+    position:absolute;
+    left:36.5rem;
+    background-color:#252422;
+    width:33%;
+    height:65rem;
+    padding:50px;
+    box-shadow:6px 15px 15px #252422;
+}
+#title{
+    margin-left:115px;
+    margin-bottom:50px;
+    color:#f24b4b;
+    font-weight:900;
+    font-size:36px;
+    
+}
+    
+#gay{
+     position:absolute;
+     z-index:-3;
+     left:10rem;
+     bottom:0;
+}
+#rope{
+    position:absolute;
+    left:70px;
+    top:99%;
+    height:50px;
+    width:95%;
+    border-radius: 10%;
+    z-index:-1;
+    background-color:#252422;
+}
+#gayson{
+    position:absolute;
+    z-index:-3;
+    right:0rem;
+    bottom:0;
+} 
+#text{
+    color:#f2f0d8;
+    font-size:17px;
+}
+footer{
+    font-size:19px;
+    color:#f24b4b;
+    position:absolute;
+    top:114%;
+    left:60%;
+}
